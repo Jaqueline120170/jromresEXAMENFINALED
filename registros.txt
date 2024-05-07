@@ -1,0 +1,3 @@
+1;jaqueline romero torres;12345678t;2024-05-07;false
+2;garcia rodriguez alfonso;1234567y;2024-05-07;false
+3;romero torres alicia;12345678i;2024-05-07;true
